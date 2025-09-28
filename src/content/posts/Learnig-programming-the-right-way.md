@@ -4,7 +4,6 @@ published: 2025-09-24
 description: "How I escaped tutorial hell and found my path in programming through building real projects"
 tags: ["programming", "learning", "web development", "journey"]
 category: "Programming"
-image: "/images/posts/learning-to-code.jpg"  # Add your image path here
 draft: false
 ---
 
