@@ -1,0 +1,26 @@
+---
+import AstroIcon from 'astro-icon';
+
+interface Props {
+  name: string;
+  class?: string;
+  size?: string | number;
+  style?: string | Record<string, string | number>;
+  [key: string]: unknown;
+}
+
+const { 
+  name, 
+  class: className, 
+  size, 
+  style: styleProp, 
+  ...rest 
+} = Astro.props as Props;
+---
+
+<AstroIcon 
+  name={name} 
+  class:list={[className, size && `w-${size} h-${size}`]} 
+  style={styleProp}
+  {...rest}
+/>
