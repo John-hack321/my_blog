@@ -1,53 +1,80 @@
-# 🍥Fuwari  
-![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen) 
-![pnpm >= 9](https://img.shields.io/badge/pnpm-%3E%3D9-blue) 
-[![DeepWiki](https://img.shields.io/badge/DeepWiki-saicaca%2Ffuwari-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/saicaca/fuwari)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_shield&issueType=license)
+# 👋 Hi, I'm John Okello
 
-A static blog template built with [Astro](https://astro.build).
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/John-hack321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
 
-[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
+## 💫 About Me
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+Hey there! I'm John Okello, a full-stack engineer, poetic builder, and aspiring founder based in Nairobi. I craft scalable backends with Docker, PostgreSQL, and FastAPI, and prototype expressive frontends using Next.js, React, and TypeScript.
 
-🌏 README in
-[**中文**](https://github.com/saicaca/fuwari/blob/main/docs/README.zh-CN.md) /
-[**日本語**](https://github.com/saicaca/fuwari/blob/main/docs/README.ja.md) /
-[**한국어**](https://github.com/saicaca/fuwari/blob/main/docs/README.ko.md) /
-[**Español**](https://github.com/saicaca/fuwari/blob/main/docs/README.es.md) /
-[**ไทย**](https://github.com/saicaca/fuwari/blob/main/docs/README.th.md) /
-[**Tiếng Việt**](https://github.com/saicaca/fuwari/blob/main/docs/README.vi.md) /
-[**Bahasa Indonesia**](https://github.com/saicaca/fuwari/blob/main/docs/README.id.md) (Provided by the community and may not always be up-to-date)
+Currently a senior at the University of Nairobi (Computer Science), I'm building fintech and chess platforms tailored for African markets — blending real-time multiplayer logic, secure transactions, and mobile-first design. I've recently added Node.js + Express to my backend toolkit, expanding my reach across stacks and ecosystems.
 
-## ✨ Features
+## 🚀 What I'm Working On
 
-- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
-- [x] Smooth animations and page transitions
-- [x] Light / dark mode
-- [x] Customizable theme colors & banner
-- [x] Responsive design
-- [x] Search functionality with [Pagefind](https://pagefind.app/)
-- [x] [Markdown extended features](https://github.com/saicaca/fuwari?tab=readme-ov-file#-markdown-extended-syntax)
-- [x] Table of contents
-- [x] RSS feed
+- **Fintech Solutions**: Building secure, scalable financial platforms for the African market
+- **Chess Platform**: Developing a real-time multiplayer chess platform with modern web technologies
+- **Game Development**: Exploring Rust for game engines and Python for 2D game prototypes
+- **Open Source**: Contributing to projects that bridge technology and social impact
 
-## 🚀 Getting Started
+## 🔧 Technical Expertise
 
-1. Create your blog repository:
-    - [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
-    - Or run one of the following commands:
-       ```sh
-       npm create fuwari@latest
-       yarn create fuwari
-       pnpm create fuwari@latest
-       bun create fuwari@latest
-       deno run -A npm:create-fuwari@latest
-       ```
-2. To edit your blog locally, clone your repository, run `pnpm install` to install dependencies.
-    - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
+### Backend Development
+
+- **Languages**: Python, JavaScript/TypeScript, Rust
+- **Frameworks**: FastAPI, Node.js, Express
+- **Databases**: PostgreSQL, Redis, Supabase
+- **DevOps**: Docker, Kubernetes, GitHub Actions, AWS, Vercel, Cloudflare
+
+### Frontend Development
+
+- **Frameworks**: Next.js, React, React Native
+- **Styling**: TailwindCSS, CSS Modules
+- **State Management**: React Query, Redux, Zustand
+- **3D & Animation**: Three.js, Framer Motion
+
+### Game Development
+
+- **Languages**: Rust, Python
+- **Tools**: nVIDIA OpenGL, Steam SDK
+- **Concepts**: Game loops, physics engines, multiplayer networking
+
+## 🌟 Recent Achievements
+
+- Successfully provisioned Dockerized PostgreSQL with secure user setup
+- Integrated Redis for real-time user presence tracking
+- Implemented versioned multi-repo workflows with semantic Git tagging
+- Developed and tested multiplayer chess logic using Socket.IO
+- Explored Rust for game engine architecture and Python for 2D game logic
+
+## 📚 Currently Learning
+
+- Advanced Rust for systems programming
+- Game development patterns and architectures
+- Cloud-native application development
+- Fintech integration with banking APIs
+
+## 🎯 Goals for 2025
+
+- Launch my fintech startup MVP
+- Contribute to open source projects in the Rust ecosystem
+- Build and release an indie game
+- Mentor aspiring developers in my community
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the platforms above or via email.
+
+## 🎮 Fun Fact
+
+When I'm not coding, you can find me analyzing chess games, exploring new tech trends, or enjoying tech-savvy comedy series. I believe in the power of technology to create meaningful change and am passionate about building solutions that make a difference.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=John-hack321&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=John-hack321&layout=compact&theme=radical)
 
 ## 📝 Frontmatter of Posts
 
