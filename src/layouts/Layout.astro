@@ -19,8 +19,8 @@ import { defaultFavicons } from "../constants/icon";
 import type { Favicon } from "../types/config";
 import { pathsEqual, url } from "../utils/url-utils";
 import "katex/dist/katex.css";
-import GoogleAnalytics from "@/components/analytics/GoogleAnalytics.astro";
-import Analytics from "@/components/analytics/Analytics.astro";
+import GoogleTagManager from "@/components/analytics/GoogleTagManager.astro";
+import GoogleTagManagerNoScript from "@/components/analytics/GoogleTagManagerNoScript.astro";
 
 interface Props {
 	title?: string;
@@ -79,10 +79,28 @@ const bannerOffset =
 	  data-overlayscrollbars-initialize
 >
 	<head>
-		<!-- Google Analytics -->
-		<GoogleAnalytics />
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-MTFJ4M0ED3"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'G-MTFJ4M0ED3');
+		</script>
+		
+		<!-- Google Tag Manager -->
+		<GoogleTagManager />
+	</head>
 
-		<title>{pageTitle}</title>
+	<body class="min-h-screen bg-bg-primary text-text-primary flex flex-col" data-overlayscrollbars-initialize>
+		<!-- Google Tag Manager (noscript) -->
+		<GoogleTagManagerNoScript />
+		<head>
+			<!-- Google Tag Manager -->
+			<GoogleTagManager />
+
+			<title>{pageTitle}</title>
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2218424732166903" crossorigin="anonymous"></script>
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2218424732166903" crossorigin="anonymous"></script>
 
 		<meta charset="UTF-8" />
