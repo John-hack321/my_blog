@@ -19,6 +19,8 @@ import { defaultFavicons } from "../constants/icon";
 import type { Favicon } from "../types/config";
 import { pathsEqual, url } from "../utils/url-utils";
 import "katex/dist/katex.css";
+import GoogleAnalytics from "@/components/analytics/GoogleAnalytics.astro";
+import Analytics from "@/components/analytics/Analytics.astro";
 
 interface Props {
 	title?: string;
@@ -77,6 +79,8 @@ const bannerOffset =
 	  data-overlayscrollbars-initialize
 >
 	<head>
+		<!-- Google Analytics -->
+		<GoogleAnalytics />
 
 		<title>{pageTitle}</title>
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2218424732166903" crossorigin="anonymous"></script>
@@ -157,6 +161,7 @@ const bannerOffset =
 
 		<!-- increase the page height during page transition to prevent the scrolling animation from jumping -->
 		<div id="page-height-extend" class="hidden h-[300vh]"></div>
+			<Analytics client:load />
 	</body>
 </html>
 
