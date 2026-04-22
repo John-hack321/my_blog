@@ -496,7 +496,28 @@ python main.py myprogram.mpy
 python main.py samples/test_precedence.mpy
 ```
 
-The output shows **Phase 1** (token list) followed by **Phase 2** (AST tree) with full hierarchy lines showing parent-child relationships.
+The output shows **Phase 1** (lexical analysis with token list) followed by **Phase 2** (parser results with any syntax errors).
+
+**Sample Output:**
+
+```
+  PHASE 1 — Lexical Analysis 
+
+  TOKEN TYPE      | VALUE                               | LINE
+  NUMBER          | '10'                                | 1
+  ASSIGNMENT      | '='                                 | 1
+  IDENTIFIER      | 'x'                                 | 1
+
+  Total tokens: 3
+
+ PHASE 2 : Parser => Parsing (AST)
+  ────────────────────────────────────────────────────────────
+Parser Error: Unexpected token '10' on line 1
+Parser Error: Unexpected token '=' on line 1
+Parser Error: Unexpected token 'x' on line 1
+
+3 error(s) found
+```
 
 ---
 
